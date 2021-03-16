@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 Contact with me: 
   + Email: ngockhanh4321234@gmail.com
-  + Facebook: facebook.com/21ngockhanh2000
+  + Facebook: https://www.facebook.com/21ngockhanh2000
 
 <!---
 Chotaotaoaccdima/Chotaotaoaccdima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
